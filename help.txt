@@ -1,0 +1,12 @@
+How It Works
+HTML Structure: The Tic-Tac-Toe board is created using a grid of div elements. There are buttons for resetting the game and a display area for the status.
+
+CSS Styling: The board and cells are styled to be visually appealing, with hover effects on the cells.
+
+JavaScript Functionality:
+
+handleCellClick(): Handles clicks on the cells, updates the game state, and checks for a winner.
+checkForWinner(): Checks if the current player has won or if the game is a draw.
+resetGame(): Resets the game to its initial state.
+Usage
+You can copy and paste the HTML, CSS, and JavaScript code into your respective files to see the Tic-Tac-Toe game in action. Enjoy playing and modifying the game!
